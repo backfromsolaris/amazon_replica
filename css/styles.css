@@ -1,0 +1,83 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline;
+    text-decoration: none;
+    padding: 15px;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    width: 68%;
+}
+
+.logo-img{
+    display: block;
+    margin: 0 auto;
+}
+
+.center-span{
+    text-align: left;
+    margin: 0 auto;
+}
+
+fieldset{
+    width: 75%;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 5px 25px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+fieldset label{
+    font-size: 90%;
+}
+
+form input{
+    display: block;
+    width: 100%;
+    border: 1px solid grey;
+    border-radius: 2px;
+    margin-bottom: 25px;
+}
+
+#forgot_pass {
+    float: right;
+}
+
+form input[type="submit"]{
+    background-color: #f7c548;
+    font-size: 90%;
+}
+
+#new_to_amazon {
+    text-align: center;
+    color: grey;
+}
+
+#footer_links {
+    font-size: 15px;
+}
+
+#copyright {
+    font-size: 15px;
+    text-align: center;
+}
